@@ -28,6 +28,9 @@ In addition, the final script should both print the analysis to the terminal and
 
 ## PyPoll Challenge
 
+![Vote_counting](https://github.com/ellen-grant/python-challenge/assets/169740200/41767184-7d3c-44df-a5fd-8c3c7127c420)
+
+
 In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
 
 A set of poll data called election_data.csv is given. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". The task was to create a Python script that analyzes the votes and calculates each of the following values:
